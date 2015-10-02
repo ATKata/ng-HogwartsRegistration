@@ -13,7 +13,7 @@ Because you are a highly disciplined Wizard, you will be writing your code test 
 
 Setup
 
-git clone https://github.com/jmcooper/angular-hogwarts-tdd-kata.git
+git clone this repo 
 
 cd angular-hogwarts-tdd-kata
 
