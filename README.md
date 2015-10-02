@@ -1,4 +1,83 @@
 Angular Hogwarts TDD Kata
+“You are here to learn the subtle science and exact art of code-crafting. As there is little foolish wand-waving here, many of you will hardly believe this is magic." --Professor Snape
+
+Introduction
+
+Hogwarts has embraced Muggle Technology!
+
+Professor Arthur Weasley has just invented the first magic-powered computer, Hex, and it works at Hogwarts.
+
+Young Wizard, you will be creating Hogwart's online student registration. Professor Neville Longbottom will guide you.
+
+Because you are a highly disciplined Wizard, you will be writing your code test first.
+
+Setup
+
+git clone https://github.com/jmcooper/angular-hogwarts-tdd-kata.git
+
+cd angular-hogwarts-tdd-kata
+
+You have two ways of running through this kata:
+
+Using Chrome,Express.js webserver, and Karma test runner.
+Using plain files inside Firefox.
+Chrome, Express.js and Karma (preferred)
+
+You have node installed. To install express.js and karma from the command line inside angular-hogwarts-tdd-kata run
+
+npm install
+
+To run the server, call
+
+node server.js
+
+You will load the app and test page with the following:
+
+http://localhost:4567/app
+http://localhost:4567/test
+Finally, if you like your tests automatically running every time you make a change, use the following command:
+
+./node_modules/karma/bin/karma start
+
+The results will magically appear in the console.
+
+Working with Plain Files in Firefox (option 2)
+
+You will have two files loaded into Firefox:
+
+file://.../app/index.html
+
+file://.../ test/HogwartsTests.hmtl
+
+You will not edit either of these files.
+
+
+
+0. Coming up to Speed
+
+How will you begin, my young wizard friend? I will explore:
+
+I will click the app and test pages.
+I will notice karma running tests in the console.
+I will notice the three menu items in the app.
+I will sort myself into a house by clicking on the sorting hat.
+Great, what house are you in? I am in ___________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Origonal Readme
+Angular Hogwarts TDD Kata
 =========================
 
 “You are here to learn the subtle science and exact art of code-crafting. As there is little foolish wand-waving here, many of you will hardly believe this is magic." --Professor Snape
